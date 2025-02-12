@@ -1,0 +1,14 @@
+html {
+    background-color: rgb(236, 208, 255);
+    color: rgb(38, 16, 63);
+    height: 99.5%;
+    width: 99.5%;
+    margin-left: 0.5%;
+}
+h1, h2 {
+    font-family: 'Rubik', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: Aptos, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
